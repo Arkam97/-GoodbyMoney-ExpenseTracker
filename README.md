@@ -1,1 +1,1 @@
-# -GoodbyMoney-ExpenseTracker
+# GoodbyMoney-ExpenseTracker
